@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
+  requestKudos(): void {
+    console.log('TODO - Finish Request, use FAB button');
+  }
+
+  sendKudos(): void {
+    console.log('TODO - Finish Send');
+  }
+
 }
