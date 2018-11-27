@@ -42,6 +42,6 @@ Recommended `ionic info`:
 ## Notes
 
 - This project is licensed under [ISC](https://opensource.org/licenses/ISC) terms. See LICENSE.txt.
-- See additional notes on the [wiki](https://github.com/derekwlms/kudos-ionic-pwa/wiki) and [gists](https://gist.github.com/derekwlms/7266309adeccb301461b5a299af3694e)
+- See the [Firebase deployment](https://kudos-ionic-pwa.firebaseapp.com) and additional notes on the [wiki](https://github.com/derekwlms/kudos-ionic-pwa/wiki) and [gists](https://bitbucket.org/derekwlms/notes/src/master/kudos-ionic-pwa.MD).
 - Lighthouse PWA report: `firebase deploy && lighthouse https://kudos-ionic-pwa.firebaseapp.com --view`
  
